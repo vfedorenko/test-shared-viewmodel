@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="selection_1">Selection 1:</string>
+    <string name="selection_2">Selection 2:</string>
+    <string name="cta">CTA</string>
+</resources>
